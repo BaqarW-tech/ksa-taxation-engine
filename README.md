@@ -172,7 +172,7 @@ This project demonstrates:
 ## 👤 Author
 
 **Muhammad Baqar Wagan**
-MA Economics | Accounting Background | Saudi Market Specialist
+MA Economics | Accounting Background
 
 [![GitHub](https://img.shields.io/badge/GitHub-BaqarW--tech-181717?logo=github)](https://github.com/BaqarW-tech)
 
