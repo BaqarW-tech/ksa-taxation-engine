@@ -1,4 +1,8 @@
-streamlit==1.35.0
-pandas==2.2.2
-numpy==1.26.4
-plotly==5.22.0
+# ZATCA TaxSense Pro — Streamlit Cloud Dependencies
+# Python 3.14.3 compatible versions with pre-built wheels
+
+streamlit>=1.36.0
+pandas>=2.2.4,<3.0
+numpy>=2.0.0,<3.0
+plotly>=5.24.0,<6.0
+pillow>=11.1.0,<12.0
